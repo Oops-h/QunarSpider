@@ -1,4 +1,7 @@
 # 去哪网团购爬虫
+
+信息提取源：
+
 https://tuan.qunar.com/vc/index.php?category=all
 
 config 文件中默认爬取2页;
